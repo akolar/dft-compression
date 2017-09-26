@@ -17,6 +17,12 @@ optional arguments:
   --conv             convert image to jpg
 ```
 
+## Overview
+
+This scripts offers a simple implementation of using FFT for compression of 
+images.
+
+
 ## Usage examples
 
 This script can be installed using `pip` or used separately.
